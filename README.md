@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Acauann
 - 👀 I’m interested in learn, read and collect experiences; I'm in a backend bootcamp called "Impulso Tec"  
-- 🌱 I’m currently learning javascript and Linux 
+- 🌱 I’m currently focused on backend
 - :earth_americas: See more: https://www.linkedin.com/in/lorrayne-trindade/
 
 
